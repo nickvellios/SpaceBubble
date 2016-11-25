@@ -1,0 +1,159 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* SpaceBubbleAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 669}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 820}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SpaceBubble */ = {
+		activeExec = 0;
+		executables = (
+			3B98B53C119B8BEA003060BB /* SpaceBubble */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* SpaceBubbleViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 669}}";
+			sepNavSelRange = "{1192, 0}";
+			sepNavVisRange = "{0, 1291}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* SpaceBubbleViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1167, 3848}}";
+			sepNavSelRange = "{2950, 0}";
+			sepNavVisRange = "{1440, 1730}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3B98B53C119B8BEA003060BB /* SpaceBubble */;
+		activeSDKPreference = iphonesimulator3.1.3;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SpaceBubble */;
+		codeSenseManager = 3B98B549119B8BED003060BB /* Code sense */;
+		executables = (
+			3B98B53C119B8BEA003060BB /* SpaceBubble */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					989,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 295409130;
+			PBXWorkspaceStateSaveDate = 295409130;
+		};
+		perUserProjectItems = {
+			3B0FA274119B9638009AD6A0 /* PBXTextBookmark */ = 3B0FA274119B9638009AD6A0 /* PBXTextBookmark */;
+			3B8A421E119B939A00514A9C /* PBXTextBookmark */ = 3B8A421E119B939A00514A9C /* PBXTextBookmark */;
+			3B8A421F119B939A00514A9C /* PBXTextBookmark */ = 3B8A421F119B939A00514A9C /* PBXTextBookmark */;
+			3B8A424E119B95E200514A9C /* PBXTextBookmark */ = 3B8A424E119B95E200514A9C /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3B98B548119B8BED003060BB /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	3B0FA274119B9638009AD6A0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SpaceBubbleViewController.m */;
+		name = "SpaceBubbleViewController.m: 76";
+		rLen = 0;
+		rLoc = 2950;
+		rType = 0;
+		vrLen = 1730;
+		vrLoc = 1440;
+	};
+	3B8A421E119B939A00514A9C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* SpaceBubbleAppDelegate.m */;
+		name = "SpaceBubbleAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 820;
+		vrLoc = 0;
+	};
+	3B8A421F119B939A00514A9C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SpaceBubbleViewController.h */;
+		name = "SpaceBubbleViewController.h: 42";
+		rLen = 0;
+		rLoc = 1192;
+		rType = 0;
+		vrLen = 1291;
+		vrLoc = 0;
+	};
+	3B8A424E119B95E200514A9C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SpaceBubbleViewController.m */;
+		name = "SpaceBubbleViewController.m: 76";
+		rLen = 0;
+		rLoc = 2950;
+		rType = 0;
+		vrLen = 1933;
+		vrLoc = 0;
+	};
+	3B98B53C119B8BEA003060BB /* SpaceBubble */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = SpaceBubble;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3B98B548119B8BED003060BB /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3B98B549119B8BED003060BB /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}
